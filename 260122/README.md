@@ -1,1 +1,0 @@
-# devopsandfullstack_2026
